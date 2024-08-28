@@ -101,5 +101,23 @@ namespace Tn_dos_jet
         {
 
         }
+
+        private void comboBox2_SelectedIndexChanged_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnComprar_Click(object sender, EventArgs e)
+        {
+            compra tela3 = new compra();
+            this.Visible = true;
+            tela3.ShowDialog();
+            this.Visible = false;
+        }
+
+        private void pictureBox8_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

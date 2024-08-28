@@ -124,8 +124,8 @@
   <data name="carrinho-de-compras" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\carrinho-de-compras.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="c552921e (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\c552921e (1).jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="login1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\login1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="circulo-usd" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\circulo-usd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -135,6 +135,9 @@
   </data>
   <data name="3ca7a22b-300x300" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\3ca7a22b-300x300.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="compra-segura-2048x442-1-e1680114865729-1024x423" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\compra-segura-2048x442-1-e1680114865729-1024x423.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="c552921e" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\c552921e.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -148,14 +151,20 @@
   <data name="purificador-de-ar (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\purificador-de-ar (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="b340d431-600x400" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\b340d431-600x400.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="trancar" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\trancar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="c68d8594" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\c68d8594.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="espessura-da-linha1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\espessura-da-linha1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="3ca7a22b-300x3001" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\3ca7a22b-300x3001.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mais-zoom" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mais-zoom.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="a3995b1594732251c5ad6aa05b0d9fd31" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\a3995b1594732251c5ad6aa05b0d9fd31.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -163,14 +172,20 @@
   <data name="559af8c1-300x3002" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\559af8c1-300x3002.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="8b5ed645-300x300" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\8b5ed645-300x300.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="login" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\login.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="05c84194" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\05c84194.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="01369d4f1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\01369d4f1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="b340d431-600x4001" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\b340d431-600x4001.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WhatsApp-Image-2022-06-09-at-00.122" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WhatsApp-Image-2022-06-09-at-00.12.392.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WhatsApp-Image-2022-06-09-at-00.121" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WhatsApp-Image-2022-06-09-at-00.12.391.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="purificador-de-ar (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\purificador-de-ar (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -181,11 +196,17 @@
   <data name="b340d431-300x300" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\b340d431-300x300.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="a3995b1594732251c5ad6aa05b0d9fd3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a3995b1594732251c5ad6aa05b0d9fd3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8b5ed645-300x300" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8b5ed645-300x300.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="238763b2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\238763b2.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="01369d4f" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\01369d4f.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="aviao-de-papel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\aviao-de-papel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="purificador-de-ar" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\purificador-de-ar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -199,20 +220,38 @@
   <data name="d3a386cb (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\d3a386cb (1).jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="a3995b1594732251c5ad6aa05b0d9fd3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\a3995b1594732251c5ad6aa05b0d9fd3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="05c84194 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\05c84194 (1).jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="c552921e (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c552921e (1).jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="559af8c1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\559af8c1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="01369d4f3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\01369d4f3.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="bolsa-de-compras" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bolsa-de-compras.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OIP (2)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OIP (2)1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WhatsApp-Image-2022-06-09-at-00.12.39" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WhatsApp-Image-2022-06-09-at-00.12.39.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="01369d4f" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\01369d4f.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="d3a386cb" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\d3a386cb.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="01369d4f1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\01369d4f1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="OIP (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OIP (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="01369d4f2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\01369d4f2.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="TNdoPEDRO" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\TNdoPEDRO.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -223,13 +262,22 @@
   <data name="lado-do-caminhao" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\lado-do-caminhao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="b340d431-600x400" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\b340d431-600x400.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="espessura-da-linha" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\espessura-da-linha.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OIP (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OIP (3).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="05c84194" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\05c84194.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="559af8c1-300x300" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\559af8c1-300x300.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="aviao-de-papel" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\aviao-de-papel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="c68d8594" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c68d8594.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Captura de tela 2024-08-28 094957" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Captura de tela 2024-08-28 094957.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

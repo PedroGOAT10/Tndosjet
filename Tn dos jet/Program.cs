@@ -16,7 +16,7 @@ namespace Tn_dos_jet
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new LOGIN());
         }
     }
 }
